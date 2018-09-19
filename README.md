@@ -12,3 +12,5 @@ O tema agora apresenta um algoritmo melhor para contar tickets e incluir os núm
  Notificações codificadas por cor para melhor interpretação
 As notificações recebem cores diferentes de acordo com sua prioridade
 https://www.whmcsadmintheme.com/
+demo https://demo.whmcsadmintheme.com/admin/
+
